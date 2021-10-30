@@ -1,6 +1,7 @@
 - 👋 Hi, I’m currently working on flutter
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m expert in machine learning 
+- 💞️ I have strong grip in python and dart as well as c#
 <!--- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... -->
 
