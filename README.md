@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aizaz Haider</h1>
-<h3 align="center">A passionate flutter developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Instagram Clone App](https://github.com/4643880/Instagram-Flutter)
 
