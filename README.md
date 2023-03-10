@@ -1,33 +1,22 @@
-- 👋 Hi, I’m currently working on flutter and django
-- 
-- 💞️ I have strong grip in python, dart as well as c# and c++
-- 
-- Dart Programming and Flutter SDK, Firebase Authentication,
-- 
-- Strong Grip in Restful API Integration, Third Party API Integration ( Imgur ),
-- 
-- C# Console Applications and C++, Python and Basic Django, Git & Github
-- 
-- Strong grip in SQL Queries & RDBMS (MS SQL Server & MySql)
-- 
-- Basic Knowledge of State Management
--       (Inherited Widget, Provider, Bloc, Getx )-       
-- Localization, SqfLite, RxDart, PHP and mySqli for Developing APIs.
-- 
-- Typing 40-45 WPM , MS Office 2016 , Adobe Illustrator, Adobe Photoshop,
-- 
-- Graphics Designing, Basic HTML 5 and CSS 3, WordPress Customization,
-- 
-- Also Google’s Team has approved my one Software which is available in
-the Google Play Store.
+<h1 align="center">Hi 👋, I'm Aizaz Haider</h1>
+<h3 align="center">A passionate flutter developer from Pakistan</h3>
+
+- 🔭 I’m currently working on [Instagram Clone App](https://github.com/4643880/Instagram-Flutter)
+
+- 🌱 I’m currently learning **Flutter and Firebase**
+
+- 👨‍💻 All of my projects are available at [https://github.com/4643880](https://github.com/4643880)
+
+- 💬 Ask me about **Flutter, PHP, and Python**
+
+- 📫 How to reach me **contact@aizazhaider.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 https://play.google.com/store/apps/developer?id=Aizaz+Haider
-
-
-<!--- - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... -->
-
-<!---
-aizazisonline/aizazisonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
