@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tiktok Clone App](https://github.com/4643880/Tiktok-Flutter)
 
-- 🌱 I have experience with **Flutter, Firebase & Restful APIs**
+- 🌱 I have experience with **Flutter, Getx, Bloc Pattern, Provider,Firebase & Restful APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/4643880](https://github.com/4643880)
 
