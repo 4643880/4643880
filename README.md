@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Tiktok Clone App](https://github.com/4643880/Tiktok-Flutter)
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently working with **Flutter, Firebase & Restful APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/4643880](https://github.com/4643880)
 
-- 💬 Ask me about **Flutter, PHP, and Python**
+- 💬 Ask me about **Flutter, PHP, Node Js and Python**
 
 - 📫 How to reach me **contact@aizazhaider.com**
 
