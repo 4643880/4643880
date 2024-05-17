@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aizaz Haider</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
+<h3 align="center">A passionate self-taught Software Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on [uLearning App](https://github.com/4643880/ulearning-Flutter)
 
