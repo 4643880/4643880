@@ -111,7 +111,7 @@
 -->
 
 <div align="center">
-    <h3> 🏆 Github 🏆 </h3>
+    <h3> 🏆 GitHub 🏆 </h3>
 </div>
 
 <table>
