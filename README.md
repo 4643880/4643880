@@ -99,8 +99,9 @@
     <h1>🌟 GitHub & LeetCode Statistics 🌟</h1>
 </div>
 
-
-                                                            🏆 Leetcode 🏆
+<div align="center">
+  <h3> 🏆 Leetcode 🏆 </h3>
+</div>
 
 <p align="center" style="max-width:100%">
   <a href="https://github.com/4643880/" rel="nofollow">
@@ -109,7 +110,10 @@
 </p>
 -->
 
-                                                            🏆 Github 🏆
+<div align="center">
+    <h3> 🏆 Github 🏆 </h3>
+</div>
+
 <table>
       <thead>
             <tr>
