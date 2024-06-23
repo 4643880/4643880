@@ -85,17 +85,31 @@
 <div style="display: flex; align-items: center;">
     <hr style="flex: 1; border: none; border-top: 1px solid #ccc; margin: 0 10px;">
 </div>
-
-# 🏆 My GitHub Stats 🏆
+</br>
 
 <!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4643880&show_icons=true" alt="GitHub Stats" style="max-width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4643880" alt="GitHub Streak" style="max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4643880&layout=compact&langs_count=10" alt="Top Languages" style="max-width: 100%;">
-</p>
+<div align="center">
+    <h1>🌟 GitHub Statistics 🌟</h1>
+</div>
 -->
 
+
+
+<div align="center">
+    <h1>🌟 GitHub & LeetCode Statistics 🌟</h1>
+</div>
+
+
+                                                            🏆 Leetcode 🏆
+
+<p align="center" style="max-width:100%">
+  <a href="https://github.com/4643880/" rel="nofollow">
+    <img src="https://leetcard.jacoblin.cool/aizazisonline??border=0&radius=20&&font=milonga" alt="Leetcode" style="max-width: 100%;">
+  </a>
+</p>
+
+
+                                                            🏆 Github 🏆
 <table>
       <thead>
             <tr>
@@ -122,10 +136,13 @@
       </thead>
 </table>
 
+
 <!--
 <p align="center">
-  <a href="https://github.com/4643880/" rel="nofollow">
-    <img src="https://github.com/4643880/FullStack-Flutter/blob/master/github-user-contribution.svg" alt="GitHub User Contribution" style="max-width: 100%;">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=4643880&show_icons=true" alt="GitHub Stats" style="max-width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4643880" alt="GitHub Streak" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4643880&layout=compact&langs_count=10" alt="Top Languages" style="max-width: 100%;">
 </p>
 -->
+
+
