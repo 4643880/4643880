@@ -20,22 +20,36 @@
   <li>📫 How to reach me: <strong>contact@aizazhaider.com</strong></li>
 </ul>
 
-<h3 style="text-align: center;" align="left">Connect with me</h3>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/aizaz-haider/" target="blank">
-        <img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://aizazhaider.com/" target="blank">
-        <img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/internet-svgrepo-com.svg" alt="Web" height="30" width="40" />
-    </a>
-    <a href="#" target="blank">
-        <img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/leetcode.png" alt="LeetCode" height="50" width="50" />
-    </a>
-    <a href="https://play.google.com/store/apps/developer?id=Aizaz+Haider" target="blank">
-        <img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/google_play-icon.svg" alt="Google Play Store" height="30" width="40" />
-    </a>
+<p align="center">  
+    <img src="https://readme-typing-svg.demolab.com/?lines=Mobile%20Application%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=500&size=22" />
 </p>
+
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/4643880/FullStack-Flutter/blob/master/star-git.png" alt="GitHub Star 2023"/></a>
+</p>
+
+<h3 style="text-align: center;" align="center"> 📱 Connect with me 📱 </h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/aizaz-haider/" target="blank"><img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://aizazhaider.com/" target="blank"><img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/internet-svgrepo-com.svg" alt="Web" height="30" width="40" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="#" target="blank"><img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/leetcode.png" alt="LeetCode" height="50" width="50" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://play.google.com/store/apps/developer?id=Aizaz+Haider" target="blank"><img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/google_play-icon.svg" alt="Google Play Store" height="30" width="40" /></a>
+</p>
+
+<div align="center"> 
+  <a href="mailto:aizazhaider720@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://aizazhaider.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
+     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/aizaz-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>   
+</div>
+
 
 <!--
 <div style="display: flex; align-items: center;">
@@ -181,15 +195,11 @@
 </br>
 
 <div align="center"> 
-  <a href="mailto:aizazhaider720@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/aizaz-haider/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://aizazhaider.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <a href="mailto:aizazhaider720@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://aizazhaider.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
+     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/aizaz-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>   
 </div>
 
 
