@@ -1,5 +1,16 @@
+<!--
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=500&color=20232A&lines=Hi+There!+👋;+I'm+Aizaz+Haider!;" />
+</h1>
+-->
+
 <h1 align="center">Hi 👋, I'm Aizaz Haider</h1>
-<h3 align="center">A passionate self-taught Software Engineer from Pakistan</h3>
+<h3 align="center">Crafting innovative software solutions with passion</h3>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&pause=500&color=57BDDA&lines=A+passionate+self-taught+Software+Engineer+from+Pakistan;" />
+</h3>
+
 
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/4643880/ulearning-Flutter">uLearning App</a></li>
@@ -9,7 +20,7 @@
   <li>📫 How to reach me: <strong>contact@aizazhaider.com</strong></li>
 </ul>
 
-<h3 style="text-align: left;">Connect with me:</h3>
+<h3 style="text-align: center;" align="left">Connect with me</h3>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/aizaz-haider/" target="blank">
@@ -49,7 +60,16 @@
 </p>
 -->
 
-<h3 align="left">Languages and Tools:</h3>
+ <hr/>
+ 
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️ </h3>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,webstorm,c,cpp,cs,dart,flutter,firebase,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,express,mongodb,ts,mysql,git,github,postman,wordpress,figma" /><br>
+</div>
+
+<!--
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -85,7 +105,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
+-->
 
 <!--
 <p align="left">
@@ -99,13 +119,12 @@
 -->
 
 </br>
-<div align="center">
-    <h1></h1>
-</div>
 
+ <hr/>
 
 <div align="center">
-    <h1>🌟 GitHub Statistics 🌟</h1>
+    <h1>🐍 GitHub Statistics 🐍</h1>
+<!--     <h1>🌟 GitHub Statistics 🌟</h1> -->
 </div>
 
 
@@ -127,17 +146,18 @@
 -->
 
 <div align="center">
-    <h3> 🏆 GitHub 🏆 </h3>
+    <h3> ⚡ GitHub ⚡ </h3>
+<!--     <h3> 🏆 GitHub 🏆 </h3> -->
 </div>
 
 <table>
       <thead>
             <tr>
                   <th>
-                        <img src="https://github-readme-stats.vercel.app/api?username=4643880&show_icons=true" alt="GitHub Stats" style="max-width: 100%;">
+                        <img src="https://github-readme-stats.vercel.app/api?username=4643880&show_icons=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" style="max-width: 100%;">
                   </th>
                   <th>
-                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=4643880" alt="GitHub Streak" style="max-width: 100%;">
+                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=4643880&theme=react" alt="GitHub Streak" style="max-width: 100%;">
                   </th>
             </tr>
       </thead>
@@ -147,14 +167,30 @@
       <thead>
             <tr>
                   <th>
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4643880&layout=compact&langs_count=10" alt="Top Languages" style="max-width: 100%;">
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4643880&layout=compact&langs_count=10&theme=react" alt="Top Languages" style="max-width: 100%;">
                   </th>
                   <th>
+                        <h2>🐍 My Contributions 🐍</h2>
                         <img src="https://github.com/4643880/FullStack-Flutter/blob/master/github-user-contribution.svg" alt="GitHub User Contribution" style="max-width: 100%;">
                   </th>
             </tr>
       </thead>
 </table>
+
+</br>
+</br>
+
+<div align="center"> 
+  <a href="mailto:aizazhaider720@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/aizaz-haider/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://aizazhaider.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 
 <!--
