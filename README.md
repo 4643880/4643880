@@ -172,7 +172,7 @@
                         <img src="https://github-readme-stats.vercel.app/api?username=4643880&show_icons=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" style="max-width: 100%;">
                   </th>
                   <th>
-                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=4643880&theme=react" alt="GitHub Streak" style="max-width: 100%;">
+                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=4643880&theme=react&border_radius=10" alt="GitHub Streak" style="max-width: 100%;">
                   </th>
             </tr>
       </thead>
@@ -182,7 +182,7 @@
       <thead>
             <tr>
                   <th>
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4643880&layout=compact&langs_count=10&theme=react" alt="Top Languages" style="max-width: 100%;">
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4643880&layout=compact&langs_count=10&theme=react&border_radius=10" alt="Top Languages" style="max-width: 100%;">
                   </th>
                   <th>
                         <h2>🐍 My Contributions 🐍</h2>
