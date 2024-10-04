@@ -38,7 +38,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://aizazhaider.com/" target="blank"><img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/internet-svgrepo-com.svg" alt="Web" height="30" width="40" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="#" target="blank"><img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/leetcode.png" alt="LeetCode" height="50" width="50" /></a>
+    <a href="https://leetcode.com/u/aizazisonline/" target="blank"><img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/leetcode.png" alt="LeetCode" height="50" width="50" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://play.google.com/store/apps/developer?id=Aizaz+Haider" target="blank"><img align="center" src="https://github.com/4643880/FullStack-Flutter/blob/master/google_play-icon.svg" alt="Google Play Store" height="30" width="40" /></a>
 </p>
