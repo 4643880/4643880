@@ -4,7 +4,7 @@
 </h1>
 -->
 
-<h1 align="center">Hi 👋, I'm Aizaz Haider</h1>
+<h1 align="center">Hi, I'm Aizaz Haider</h1>
 <h3 align="center">Crafting innovative software solutions with passion</h3>
 
 <h3 align="center">
@@ -17,7 +17,8 @@
   <li>🌱 I have experience with <strong>Flutter, Getx, Bloc Pattern, Provider, Firebase & Restful APIs</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/4643880">https://github.com/4643880</a></li>
   <li>💬 Ask me about <strong>Flutter, PHP, Node Js and Python</strong></li>
-  <li>📫 How to reach me: <strong>contact@aizazhaider.com</strong></li>
+  <li>📫 How to reach me: <strong>contact@aizazhaider.com</strong></li>    
+  <li>💻 In my free time, I enjoy coding and diving into new problem-solving adventures!</li>    
 </ul>
 
 
@@ -44,11 +45,11 @@
 
 <div align="center"> 
   <a href="mailto:aizazhaider720@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+<!--     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://aizazhaider.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
-     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+<!--      &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://wa.me/923124643880" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /></a>   
-<!--   <a href="https://www.linkedin.com/in/aizaz-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>    -->
+<a href="https://www.linkedin.com/in/aizaz-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
 
 
@@ -136,32 +137,34 @@
 </br>
 
  <hr/>
-
-<div align="center">
-    <h1>🐍 GitHub Statistics 🐍</h1>
-<!--     <h1>🌟 GitHub Statistics 🌟</h1> -->
-</div>
-
-
-
 <!--
 <div align="center">
-    <h1>🌟 GitHub & LeetCode Statistics 🌟</h1>
+    <h1>🐍 GitHub Statistics 🐍</h1>
+    <h1>🌟 GitHub Statistics 🌟</h1>
 </div>
-
-<div align="center">
-  <h3> 🏆 Leetcode 🏆 </h3>
-</div>
-
-<p align="center" style="max-width:100%">
-  <a href="https://github.com/4643880/" rel="nofollow">
-    <img src="https://leetcard.jacoblin.cool/alpha??border=0&radius=20&&font=milonga" alt="Leetcode" style="max-width: 100%;">
-  </a>
-</p>
 -->
 
+
+
 <div align="center">
-    <h3> ⚡ GitHub ⚡ </h3>
+    <h3>🐍 GitHub & LeetCode Statistics 🐍</h3>
+<!--     <h1>🌟 GitHub & LeetCode Statistics 🌟</h1> -->
+</div>
+
+<div align="center">
+  <h4> 🏆 Leetcode 🏆 </h4>
+</div>
+
+
+<p align="center" style="max-width:100%">
+  <a href="https://leetcode.com/u/aizazisonline/" rel="nofollow">
+    <img src="https://leetcard.jacoblin.cool/aizazisonline?border=3&radius=10" alt="Leetcode" style="max-width: 100%;">
+  </a>
+</p>
+
+
+<div align="center">
+    <h4> ⚡ GitHub ⚡ </h4>
 <!--     <h3> 🏆 GitHub 🏆 </h3> -->
 </div>
 
@@ -197,11 +200,10 @@
 
 <div align="center"> 
   <a href="mailto:aizazhaider720@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+<!--     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://aizazhaider.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> 
-     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/923124643880" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /></a>   
-<!--   <a href="https://www.linkedin.com/in/aizaz-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>    -->   
+<!--      &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://wa.me/923124643880" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /></a>     <a href="https://www.linkedin.com/in/aizaz-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>   
 </div>
 
 
