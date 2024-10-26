@@ -155,13 +155,30 @@
   <h4> 🏆 Leetcode 🏆 </h4>
 </div>
 
-
+<!--
 <p align="center" style="max-width:100%">
   <a href="https://leetcode.com/u/aizazisonline/" rel="nofollow">
     <img src="https://leetcard.jacoblin.cool/aizazisonline?border=3&radius=10" alt="Leetcode" style="max-width: 100%;">
   </a>
 </p>
+-->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&pause=500&color=1F2328&lines=Embrace+the+challenge+of+DSA;Every+problem+solved+is+a+step+towards+your+goals;Keep+coding,+keep+growing!;" />
 
+<table>
+      <thead>
+            <tr>
+                  <th>
+                        <img src="https://leetcard.jacoblin.cool/aizazisonline?border=3&radius=10" alt="Leetcode" style="max-width: 100%;">
+                  </th>                  
+                  <th>
+                        <img src="https://leetcode-badge-showcase.vercel.app/api?username=aizazisonline&animated=true&filter=comp" alt="LeetCode Badges"/>
+                  </th>
+                  <th>
+                        <img src="https://leetcode-badge-showcase.vercel.app/api?username=aizazisonline&animated=true&filter=daily" alt="LeetCode Badges"/>
+                  </th>
+            </tr>
+      </thead>
+</table>
 
 <div align="center">
     <h4> ⚡ GitHub ⚡ </h4>
